@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+#Mis archivos a excluir
+sprng*
+execs
